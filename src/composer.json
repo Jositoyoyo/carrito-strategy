@@ -1,0 +1,8 @@
+{
+  "require": {
+    "php" : ">=7.1.0",
+    "phpmailer/phpmailer" : "dev-master",
+    "smarty/smarty": "^3.1",
+    "nette/forms": "2.3.12"
+  }
+}
